@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(0, 255, 170));
+}
+.align{
+    text-align: center;
+    font-style: italic;
+    color:brown;
+    font-family: cursive;
+    
+}
+#heading{
+    margin-top: 100px;
+}
+.design{
+    font-size: xx-large;
+    color:crimson;
+}
